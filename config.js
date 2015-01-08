@@ -1,6 +1,6 @@
-{"path":"./Adda",
-	"remote":"https://github.com/Cyberfrog/Adda.git",
-	"before":["echo 'before'"],
-	"tests":["mocha tests"],
-	"after":["echo 'removing setup'"]
+{"path":"./QUIZ",
+	"remote":"https://github.com/KittuJain/QUIZ.git",
+	"before":["echo 'before'","echo 'before1'","echo 'jayanth'"],
+	"tests":["cd sssss"],
+	"after":["echo 'removing setup'","echo 'removing qaba'"]
 }

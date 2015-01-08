@@ -1,0 +1,6 @@
+{"path":"./ADDA",
+	"remote":"https://github.com/Cyberfrog/Adda.git",
+	"before":["echo 'before'","sh scripts/deploy.sh"],
+	"tests":["mocha tests"],
+	"after":["echo 'removing setup'","echo 'removing qaba'"]
+}
